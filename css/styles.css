@@ -1,0 +1,17 @@
+/* задача 3 */
+
+.galerry-list {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.gallery-list-item {
+  margin-right: 50px;
+  list-style-type: none;
+}
+
+.gallery-list-img {
+  width: 500px;
+  height: 300px;
+}
