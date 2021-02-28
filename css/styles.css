@@ -27,6 +27,9 @@
 
 #validation-input {
   border: 3px solid #bdbdbd;
+
+  margin-top: 50px;
+  margin-bottom: 50px;
 }
 
 #validation-input.valid {
@@ -36,3 +39,5 @@
 #validation-input.invalid {
   border-color: #f44336;
 }
+
+/* задача 6 */
